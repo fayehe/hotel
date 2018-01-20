@@ -1,3 +1,3 @@
-Eclipse
-Java web project
+Eclipse; 
+Java web project; 
 Native servlet and jsp
