@@ -1,4 +1,3 @@
-Eclipse; 
-Java web project; 
-Native servlet and jsp;
-Paging, JDBC
+- JDK1.8 + eclipse Oxygen + tomcat8.5 + Mysql5.7.20
+- Native servlet and jsp;
+- Paging, JDBC
